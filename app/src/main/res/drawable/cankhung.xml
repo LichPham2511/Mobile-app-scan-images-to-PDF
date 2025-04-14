@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+
+    <!-- Đặt màu trong suốt cho phần bên trong khung -->
+    <solid android:color="#00000000" />
+
+    <!-- Đặt màu và độ dày của viền -->
+    <stroke
+        android:width="2dp"
+        android:color="#FF5722" /> <!-- Màu cam đậm để dễ nhìn -->
+
+    <!-- Bo góc nhẹ cho khung -->
+    <corners android:radius="4dp" />
+</shape>
