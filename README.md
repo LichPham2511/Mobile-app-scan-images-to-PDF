@@ -1,4 +1,4 @@
-# Mobile appnscan images to bPDF
+# Mobile app scan images to bPDF
 Individual
 
 ## I. Introduction
